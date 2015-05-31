@@ -1,3 +1,7 @@
+### Note
+This plugin has been merged into vagrant and should be available in yet unreleased v1.7.3. Once this version of vagrant is released, this repo will go the way of the dodo.
+
+
 # vagrant-darwin-smb plugin
 This plugin provides capability to add SMB synced folders to Darwin (OS X) guests. It is a simple wrapper/proxy to [mount_smbfs](http://linux.die.net/man/8/smbmount) command.
 
